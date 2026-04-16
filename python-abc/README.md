@@ -1,1 +1,1 @@
-Python - Abstract Base Classes
+Python - Abstract Base Classes and Duck Typing
