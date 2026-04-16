@@ -57,4 +57,3 @@ def shape_info(obj):
     """Duck typing function."""
     print("Area: {}".format(obj.area()))
     print("Perimeter: {}".format(obj.perimeter()))
-
