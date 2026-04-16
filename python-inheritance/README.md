@@ -1,1 +1,1 @@
-Python - Inheritance: Task 7 complete
+Project about Inheritance and Geometry classes in Python.
