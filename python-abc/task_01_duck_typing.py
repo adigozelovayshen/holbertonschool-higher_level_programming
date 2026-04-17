@@ -1,5 +1,7 @@
-#!/usr/bin/python3
-"""Module for Shape, Circle, Rectangle and Duck Typing."""
+#!/usr/bin/env python3
+"""
+Module for Shape, Circle, Rectangle and Duck Typing.
+"""
 from abc import ABC, abstractmethod
 import math
 
